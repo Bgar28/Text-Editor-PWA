@@ -15,6 +15,8 @@
   ## Installation
 This app is deployed to heroku: https://brians-fun-text-editor.herokuapp.com/ <br>
 Click "install" to install as a pwa. <br>
+![screenshot](https://github.com/Bgar28/Text-Editor-PWA/blob/main/images/screenshot1.png) <br>
+  ![screenshot](https://github.com/Bgar28/Text-Editor-PWA/blob/main/images/screenshot2.png)
  
 
   ## License
